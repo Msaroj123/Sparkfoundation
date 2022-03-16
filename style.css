@@ -9,7 +9,7 @@
 .main{
     width:100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url('file:///C:/Users/SAROJ%20KUMAR%20MANNA/Downloads/rupixen-com-Q59HmzK38eQ-unsplash.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url('rupixen-com-Q59HmzK38eQ-unsplash.jpg');
     background-position: center;
     background-size: cover;
 }
